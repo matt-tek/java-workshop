@@ -1,0 +1,6 @@
+{
+  "parent": " item/generate",
+  "textures": {
+    "layer0": "epitech:items/assets/epitech/textures/items/"
+  }
+}
