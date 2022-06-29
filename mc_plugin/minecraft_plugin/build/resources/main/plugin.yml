@@ -1,0 +1,8 @@
+name : EpitechPlugin
+version : 1.0
+author : Your Name
+main : com.github.matttek.minecraft_plugin.EpitechPlugin
+commands:
+  epitech:
+    description: MyMarvin
+    usage: /epitech
